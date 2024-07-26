@@ -7,3 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=riiyansh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riiyansh)](https://git.io/streak-stats)
+
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
